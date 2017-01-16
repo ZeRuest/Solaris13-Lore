@@ -6,21 +6,21 @@
 As you may have noticed from your time on our server, Humanity is not alone in the stars. So far, there are six other alien civilizations that we have discovered, and that's just the start of our galaxy! Who knows what else lurks in the dark corners...
 Anyways, these species were already described on the previous Section in short little paragraphs that gave you a basic idea. This section is meant to give you a more comprehensive understanding of these Aliens, and perhaps prepare you to even play them!
 
-[**Humanity**](https://baystation12.net/lore/Species/Humanity)
+[**Humanity**](http://lore.solaris13.net/Species/Humanity)
 
 One of the more prominent species in our area of the Galaxy, Humanity has certainly expanded across the stars since their first contact with the Skrell in the 25th century. Since then, they have spread out, colonized or conquered, and built for themselves a great civilization under the control of The Sol Government (or Sol Gov), based out of the heart of Human Politics, the Terran Commonwealth. Trans-Stellar Corporations push Humanity into further reaches of space, and are at the bleeding edge of new technology. In recent days, the discovery of the phoron giant in Nyx have fueled investments and jobs, bringing many Humans to the outer rim of their controlled systems, as well as many subversive organizations that have a variety of different agendas. 
 
-[**Skrell**](https://baystation12.net/lore/Species/The-Skrell)
+[**Skrell**](http://lore.solaris13.net/Species/The-Skrell)
 
-Hailing from the jungles and marshes of [Qerr'balak](https://baystation12.net/lore/Planets-and-Systems/Qerrbalak), Humanity's oldest ally, and one of the two most powerful known civilizations: the Skrell. They are far more technologically advanced than Humanity, and have been around this point for near 600 years, with technological advancements stagnating (though still far ahead of Humanity). They are at the top of Galactic prowess, with them being the firsrt Empire Humanity ever met in the stars. They are responsible for many advancements that Humanity has acquired, and for keeping the Peace, mostly, between the younger species. 
+Hailing from the jungles and marshes of [Qerr'balak](http://lore.solaris13.net/Planets-and-Systems/Qerrbalak), Humanity's oldest ally, and one of the two most powerful known civilizations: the Skrell. They are far more technologically advanced than Humanity, and have been around this point for near 600 years, with technological advancements stagnating (though still far ahead of Humanity). They are at the top of Galactic prowess, with them being the firsrt Empire Humanity ever met in the stars. They are responsible for many advancements that Humanity has acquired, and for keeping the Peace, mostly, between the younger species. 
 
 [**Unathi**](http://baystation12.net/lore/Species/The-Unathi)
 
-a proud race of reptilians hailing from the desert planet of [Moghes](https://baystation12.net/lore/Planets-and-Systems/Moghes), the Unathi are a recent addition to the International Community. They are a highly sexist society, and to some, considered xenophobic too. They are very much in keeping with their own traditions and staying out of intergalactic affairs, and as such, it is rare to see them out in the stars and away from home.
+a proud race of reptilians hailing from the desert planet of [Moghes](http://lore.solaris13.net/Planets-and-Systems/Moghes), the Unathi are a recent addition to the International Community. They are a highly sexist society, and to some, considered xenophobic too. They are very much in keeping with their own traditions and staying out of intergalactic affairs, and as such, it is rare to see them out in the stars and away from home.
 
-[**Tajara**](https://baystation12.net/lore/Species/The-Tajara)
+[**Tajara**](http://lore.solaris13.net/Species/The-Tajara)
 
-A newer addition to the galactic community from [Ahdomai](https://baystation12.net/lore/Planets-and-Systems/Ahdomai), the Tajara are a form of cheap labor throughout the stars, and they haven't been found to do much else. For a long time until a revolution took place they were ruled over by a class known as the "Slavemasters" and in recent years finally made it on their own into the stars, but society is still very divided for them. They're based around family, traditions, and hard work.
+A newer addition to the galactic community from [Ahdomai](http://lore.solaris13.net/Planets-and-Systems/Ahdomai), the Tajara are a form of cheap labor throughout the stars, and they haven't been found to do much else. For a long time until a revolution took place they were ruled over by a class known as the "Slavemasters" and in recent years finally made it on their own into the stars, but society is still very divided for them. They're based around family, traditions, and hard work.
 
 [**Resomii**](http://baystation12.net/lore/Species/Resomi)
 

@@ -20,7 +20,7 @@ ___
 
 ###The Races
 
-[**Humanity**](https://baystation12.net/lore/Species/Humanity)
+[**Humanity**](http://lore.solaris13.net/Species/Humanity)
 
 ![Humanity](https://wiki.baystation12.net/images/6/60/Background-humans.png) 
 
@@ -28,7 +28,7 @@ Humanity, everything and nothing can be said about them. They are the primary dr
 
 While most humans are accepting of other species and simply want to earn an honest paycheck, the best and worst are found among them. You never know what a human is going to be like when you first meet them. Due their prevalence in current known space, and their ability to encompass all traits, good and bad, humanity is often considered the 'status quo'.
 
-[**Skrell**](https://baystation12.net/lore/Species/The-Skrell)
+[**Skrell**](http://lore.solaris13.net/Species/The-Skrell)
 
 ![Skrell](https://wiki.baystation12.net/images/4/4d/Background-Skrell.png)
 
@@ -36,7 +36,7 @@ The Skrell are a species of amphibious humanoids, distinguished by their green-b
 
 Gender has little meaning to Skrell outside of reproduction, and in fact many other species have a difficult time telling the difference between male and female Skrell apart. The most obvious signs (voice in a slightly higher register, longer head-tails for females) are never a guarantee. Due to their scientific focus of the mind and body, Skrell tend to be more peaceful and their colonization has been slow, swiftly outpaced by humanity. They were the first contact sentient species, and are humanity's longest, and closest, ally in space.
 
-[**Unathi**](https://baystation12.net/lore/Species/The-Unathi) 
+[**Unathi**](http://lore.solaris13.net/Species/The-Unathi) 
 
 ![Unathi](https://wiki.baystation12.net/images/f/f8/Background-unathi.png)
 
@@ -44,7 +44,7 @@ Raging in from Moghes, the Unathi are a race of tall, reptilian humanoids that p
 
 Most Unathi outside of Moghes tend to be exiles however, and with influence of other species the gender difference is not nearly as pronounced. Unathi were humanity's second contact, and despite their aggressive nature, seem to get along well enough with humanity, though are often considered to be 'second-class' citizens and are rarely seen in jobs other than where muscle is needed.
 
-[**Tajara**](https://baystation12.net/lore/Species/The-Tajara) 
+[**Tajara**](http://lore.solaris13.net/Species/The-Tajara) 
 
 ![Tajara](https://wiki.baystation12.net/images/9/92/Background-tajaran.png)
 
@@ -52,7 +52,7 @@ The Tajaran are a humanoid race possessing cat-like features. Hailing from Ahdom
 
 Remembering their days of being ruled the older generation pride themselves on loyalty, while the younger generation are often seen as headstrong. Third and most recent contact by humanity. While plenty of Tajaran hold reservations with their new allies, over all the alliance is accepted and welcome. Though like the Unathi plenty of humans take advantage of the less than modern education and slave past history, and it is rare to see a Tajaran in a position of command.
 
-[**Dionaea**](https://baystation12.net/lore/Species/The-Dionaea)
+[**Dionaea**](http://lore.solaris13.net/Species/The-Dionaea)
 
 ![Dionaea](https://wiki.baystation12.net/images/3/33/Dionaea-background.png)
 
@@ -61,13 +61,13 @@ The dionaea are a group of omnivorous, slow-metabolism plantlike organisms that 
 Dionaea spread by seeds and are asexual, no gender.
 When grown into their small 'nymph' state, they are known to eat large amounts of dead plant matter and fertilize plants while they learn from those around them, and as they grow further merger into larger and larger forms. It is not unheard of for Skrell explorers to be traveling in a ship composed of habitat modules and engines of skrell make and the body formed by their diona allies to warble across the cosmos. Introduced by the Skrell, and quite slow and peaceful, the Diona share good relations with humanity.
 
-[**Resomii**](https://baystation12.net/lore/Species/Resomi)
+[**Resomii**](http://lore.solaris13.net/Species/Resomi)
 
 
-[**IPCs**](https://baystation12.net/lore/Species/The-IPCs)
+[**IPCs**](http://lore.solaris13.net/Species/The-IPCs)
 
 
-[**Vox**](https://baystation12.net/lore/Species/Vox)
+[**Vox**](http://lore.solaris13.net/Species/Vox)
 
 ![Vox](https://wiki.baystation12.net/images/c/cf/Background-vox.png)
 
@@ -92,14 +92,14 @@ ___
 
 ###Various Factions
 
-[**Trans-Stellar Corporations**](https://baystation12.net/lore/Section-3)
+[**Trans-Stellar Corporations**](http://lore.solaris13.net/Section-3)
 These are the big corporate forces, major companies whose reach cover numerous star systems and are nearly government forces of their own. While Sol Central does keep them in check to make certain nothing too inhumane or against humanity's interest is being performed, they actually police each other in a way. Keep in mind while many corporations do have their own security forces, some of them armed well enough to make some governmental military forces jealous, they are all used for 'asset protection'.
 
 **The Free Trade Union**
 To keep the TSC's in check, and to help protect the smaller businesses striving to just make a living, the Free Trade Union was formed 200 years ago. Each FTU branch is different from system to system, but each offer lawyers, copyright enforcement, and even anti-pirate asset protection forces for any non TSC business. All FTU stations are renowned for their open markets where all are welcomed to sell and trade, even the Vox. They're the vocal defenders of the mom and pop stores, basically.
 
-[**Sol Gov**](https://baystation12.net/lore/Section-8)
+[**Sol Gov**](http://lore.solaris13.net/Section-8)
 The banner over which most of humanity is united under. They focus on keeping humanity's best interest in check and tend to keep out of a system's personal problems unless they are in a dire state of emergency. (Think United Nations)
 
-[**Subversive Forces**](https://baystation12.net/lore/Section-5)
+[**Subversive Forces**](http://lore.solaris13.net/Section-5)
 Ever since humanily only lived on Earth, criminals banded together into groups that worked in the opposite side of law. Present time is no exception and there is a number of subversive organisations, pirate groups, rogue states and so on. They operate in various systems, or even between them. Their motives, beliefs, history and power vary, but they all share one trait. They are enemies of normal people. And great inspiration for todays criminals.

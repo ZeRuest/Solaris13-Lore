@@ -1,7 +1,7 @@
 # Roanake
 
 
-* **Location:**  Erebus II, [Nyx](https://baystation12.net/lore/The%20Nyx%20System) 
+* **Location:**  Erebus II, [Nyx](http://lore.solaris13.net/The%20Nyx%20System) 
 * **Capital:**  NTB Arcop V (de facto) 
 * Official languages:  Galactic Common|
 * Demonym:  Roanakeian 

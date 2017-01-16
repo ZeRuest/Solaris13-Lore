@@ -1,28 +1,28 @@
 
-# Welcome to the Baystation Lore ![image](https://baystation12.net/forums/logo.png) 
-____
+# Добро пожаловать на лор Solaris 13 ![image](https://solaris13.net/images/logo.png)
 
+**Добро пожаловать на вики по лору Solaris 13. Здесь вы найдете все, связанное с нашим бэкстори в виде удобных руководств.**
 
-**Welcome to the Lore Wiki for Baystation12. This is where you can find all the background, fluff, lore, and information for Bayinverse (the universe our server finds itself in) in easy to read (and sometimes funny) guides.**
+**ВНИМАНИЕ! Лор основан на лоре Baystation 12 и в данный момент в процессе перевода и адаптации.**
 
-## Sections
+**Приставка [EN] в названии статьи означает, что данная статья еще не переведена**
 
-* [Welcome to the Milky Way, Circa 2560](https://baystation12.net/lore/Section-1) - A basic guide to Space, and what's going on.
+## Разделы
 
-* [Humans, Aliens, and Monsters, Oh My!](https://baystation12.net/lore/Section-2) - All about Humanity, the other species that they live with, and the prominent "monsters" out there.
+* [[EN] Добро пожаловать в Млечный Путь 2560 годов](http://lore.solaris13.net/Section-1) - Самая базовая информация. Краткое описание вселенной, мест, рас и политических сил.
 
-* [Big Brother and the Government](https://baystation12.net/lore/Section-8) - This talks about Sol Gov, the government behind Humanity, and the governments behind the various other races.
+* [[EN] Люди, пришельцы, монстры!](http://lore.solaris13.net/Section-2) - Все о человечестве и его братьях по разуму.
 
-* [Colonies, From Mining Hubs to New New New York!](https://baystation12.net/lore/Section-4) - A listed page that lets you read up on the major systems and colonies *(All player-submitted. Please refer to the forums if you wish to add some)*
+* [[EN] Большой Брат и Правительство](http://lore.solaris13.net/Section-8) - Статья об ОПСС, что стоит за человечеством, и правительстве других рас.
 
-* [Planets? Bluespace? Supermatter?! Welcome to SCIENCE!!!](http://baystation12.net/lore/Section-7) - Science, something very important in the 26th Century, and the crazy things that it entails.
+* [[EN] Колонии, От шахтерских станций до Нью Нью Нью Йорка!](http://lore.solaris13.net/Section-4) - Список основных систем и колоний *(Обратитесь на форум или создайте PR, если хотите добавить новую)*
 
-* [So You Want to Learn About the Corporate World?](https://baystation12.net/lore/Section-3) - A detailed guide into the workings of NanoTrasen, the other major Trans-Stellar Corporations, and various other smaller ones across the stars.
+* [[EN] Планеты? Блюспейс? Суперматерия?! Добро пожаловать в НАУКУ!!!](http://baystation12.net/lore/Section-7) - Наука, нечто очень важное в 26-ом веке, и всякие сумасшедшие штуки с ней связанные.
 
-* [Terrorism and You!](https://baystation12.net/lore/Section-5) - All about the antags, basically, and what they do and mean in Space.
+* [[EN] Корпоративный мир](http://lore.solaris13.net/Section-3) - Детализированное руководство, освещающее работу NanoTrasen, других крупнеших межзвездных корпораций и корпораций поменьше.
 
-* [What Else Do You Want to Know?](https://baystation12.net/lore/Section-9) - Little bits of extra knowledge, updated as time goes by and questions are asked.
+* [[EN] Терроризм и вы!](http://lore.solaris13.net/Section-5) - Все об антагонистах, и что они делают.
 
-* [Glossary of Terms](https://baystation12.net/lore/Glossary) - A Glossary of Terms as the title states, of every werid euphemism and colloquial term we use on the LoreWiki.
+* [[EN] Что еще следует знать?](http://lore.solaris13.net/Section-9) - Разнообразные полезные знания.
 
-* [Wiki](https://baystation12.net/wiki) - The Main Wiki, where you can find guides over how do to jobs, how to antag, roleplaying, and all the various rules and guidelines for the server. Also known as the MechanicsWiki.
+* [Справочник терминов](http://lore.solaris13.net/Glossary)

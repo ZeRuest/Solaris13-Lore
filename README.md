@@ -1,14 +1,13 @@
-# Baystation12-Lore
+# Лор Solaris 13
 
-This is the repo for the lore. Please follow these rules when making PRs:
+## Основан на лоре Baystation 12.
 
-* Identify which section the PR will be affecting
-* Identify what it is adding, changing, or removing
-* Make sure that it is cleanly written and well typed, otherwise it will not be added
-* Have approval from whatever Species Maintainer when changing Species lore
-* Colonies **must** be approved by Lore Maintainer before they can be PR'd
-* Any changes to major lore, such as Sol Gov, NanoTrasen, etc. **must* be approved by Lore Maintainer before they can be PR'd
-* No colors for the love of god
+Это основной репозиторий нашего лора. Пожалуйста, следуйте указанным правилам при создании PR:
 
-That's basically it, thankyou!
+* Укажите, какую секцию затронет ваш PR
+* Укажите, что вы добавляете, изменяете, удаляете
+* Убедитесь, что ваше дополнение к бэку написано без ошибок (в том числе стилистических), иначе ваш PR будет закрыт
+* Ради бога, не используйте цвета! (Вики лора поддерживает ограниченный HTML)
+
+Вроде все.
 

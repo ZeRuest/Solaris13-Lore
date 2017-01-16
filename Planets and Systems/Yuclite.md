@@ -2,7 +2,7 @@
 
 ### Colonial Information
 
-* **Location:** **Yuclite**, [Nyx](https://baystation12.net/lore/The%20Nyx%20System)
+* **Location:** **Yuclite**, [Nyx](http://lore.solaris13.net/The%20Nyx%20System)
 * **Capital:**  Greendeer (de facto) 
 * Demonym: | Yuclitean |
 * Government: |  Corporate oligarchy |

@@ -1,6 +1,6 @@
 # The Unathi
 
-The Unathi (Ew-nath-ee) are a race of tall, reptilian humanoids that possess both crocodile-like and serpent-like features. Their scales are hard and plate-like, save for the softer ones that line the inside of their legs, armpits, and groin. Originating from the planet of [Moghes](https://baystation12.net/lore/Planets-and-Systems/Moghes), the Unathi live in an extremely sexist society, with women being considered property.
+The Unathi (Ew-nath-ee) are a race of tall, reptilian humanoids that possess both crocodile-like and serpent-like features. Their scales are hard and plate-like, save for the softer ones that line the inside of their legs, armpits, and groin. Originating from the planet of [Moghes](http://lore.solaris13.net/Planets-and-Systems/Moghes), the Unathi live in an extremely sexist society, with women being considered property.
 
 ## An Overview
 
