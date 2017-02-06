@@ -1,12 +1,12 @@
-#Welcome to the Milky Way, Circa 2560
+#Добро пожаловать. Млечный путь, 2560 год.
 ___
 
-The year is 2560 CE (Common Era), and with the help of massive arc ships, humanity has slowly spread out amongst the stars, and colonized our neighboring systems. *Gateways* now connect Sol and the Colonies, making travel take mere months, rather than decades. The discovery of the seemingly supernatural material, *Phoron*, has also helped push the bounds of science, and with the usage of *Terraforming Machines* also available, on-ship FTL (Faster than Light) drives have become a reality. Colonization and expansion have never been like this before. 
-But, more importantly; we are not alone, as we once thought. Other species - The Skrell, Unathi, Tajara, Dionaea, and Resomii, explore the stars alongside us. Expanding the frontier even further - For Knowledge. For Profit.
-However, danger lurks just around the corner. Hostile aliens like the Vox, Space Carp, and other, unknown species who we have yet to discover. Various *subversive organizations* work on the frontier, causing turmoil and havoc across the Outer Systems. Phoron, as beneficial as it is, is still unknown to us - and its dangers even more so. Even space itself is a cruel, uncaring mistress that countless others have lost their lives in.
+Год 2560 (Текущая эра). С помощью огромных капитальных кораблей человечество медленно распространяется среди звезд и колонизирует ближайшие звездные системы. "Врата" (Гейтвеи) теперь соединяют Солнце и колонии, путешествия сейчас занимают месяцы, иногда декады. Открытие, казалось бы, уникального материала - "Форон". Он же подтолкнул науку, сделал возможным терраформирование, сделал реальным существование сверхсветовых двигателей. Колонизация и экспансия никогда еще не была столь легкой. 
+Но наиболее важно - мы не одни. Другие виды - Скреллы, Унатхи, Таяры, Дионы, Резоми исследовали звезды рядом с нами. Границы расширяются всю дальше - к знаниям и прибыли.
+И все же, опасности тоже близко. Враждебные пришельцы - Воксы, Космические Карпы и другие неизвестные виды, которые мы еще не открыли.  Различные терористические организации работающие на фронтире, устраивающие хаос на внешних системах. Форон весьма выгоден, но и весьма опасен. Даже сам космос опасен и притягателен, уже многие загубили свои жизни.
 This is the universe of today.
 
-##The Frontier
+##Фронтир
 ___
 
 You, are stationed in the far, outer edge of colonized human space: Nyx. The sub-solar companion to Nyx, Erebus, is the only known Phoron giant in existance, and has driven much of the colonization and business in the system. *Trans-Stellar Corporations* (TSC's), the *Free Trade Union* (FTU), and countless independent factions have come to Nyx hoping to strike it big, each vying for control of the stars. Even with the Gateway in the system, SolGov has too small of a presence in the system to do much besides police the worst of crimes. Even with the power struggle, the advancements of technology that have improved the overall living and education have spread far out into the Frontier. There yet still remain a few "backwater" colonies, such as *Brinkburn* and *Roanake*.
