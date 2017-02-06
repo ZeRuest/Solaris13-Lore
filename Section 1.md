@@ -90,16 +90,16 @@ Synthetics are spread throughout known space and serve a myriad variety of roles
 
 ___
 
-###Various Factions
+###Различные фракции
 
 [**Trans-Stellar Corporations**](http://lore.solaris13.net/Section-3)
-These are the big corporate forces, major companies whose reach cover numerous star systems and are nearly government forces of their own. While Sol Central does keep them in check to make certain nothing too inhumane or against humanity's interest is being performed, they actually police each other in a way. Keep in mind while many corporations do have their own security forces, some of them armed well enough to make some governmental military forces jealous, they are all used for 'asset protection'.
+Концерн из самых крупных компаний, компаний, которые охватывают по несколько звездных систем и имеют влияние, сравнимое с правительственным. Правительство Солнечной системы старается следить за ними, чтобы они своими действиями не вредили человечеству и не шли против его интересов, однако и другие корпорации не дают никому вырываться вперед. Стоит иметь ввиду, что некоторые корпорации имеют собственные силы безопасности, вооруженные достаточно чтобы представлять угрозу силам правительства. Эти корпоративные армии используются для защиты "активов" и это весьма широкое понятие.
 
 **The Free Trade Union**
-To keep the TSC's in check, and to help protect the smaller businesses striving to just make a living, the Free Trade Union was formed 200 years ago. Each FTU branch is different from system to system, but each offer lawyers, copyright enforcement, and even anti-pirate asset protection forces for any non TSC business. All FTU stations are renowned for their open markets where all are welcomed to sell and trade, even the Vox. They're the vocal defenders of the mom and pop stores, basically.
+Free Trade Union была сформирована 200 лет назад для того чтобы составить конкуренцию Trans-Stellar Corporations и защитить компании меньших размеров. Филиал FTU отличаются друг от друга в разных системах в, но каждом присутствует свои юристы, соблюдение авторских прав и даже анти-пиратские силы защиты активов. Все FTU станции известны своими открытыми рынками, где можно купить и продать все и всем, даже Воксам.
 
 [**Sol Gov**](http://lore.solaris13.net/Section-8)
-The banner over which most of humanity is united under. They focus on keeping humanity's best interest in check and tend to keep out of a system's personal problems unless they are in a dire state of emergency. (Think United Nations)
+Знамя, обьединившее человечество. Их цель в поддержании интересов человечества, не влезая в личные проблемы звездных систем, если только они не находятся в тяжелом состоянии.
 
-[**Subversive Forces**](http://lore.solaris13.net/Section-5)
-Ever since humanily only lived on Earth, criminals banded together into groups that worked in the opposite side of law. Present time is no exception and there is a number of subversive organisations, pirate groups, rogue states and so on. They operate in various systems, or even between them. Their motives, beliefs, history and power vary, but they all share one trait. They are enemies of normal people. And great inspiration for todays criminals.
+[**Террористические группы**](http://lore.solaris13.net/Section-5)
+С тех времен, когда люди жили только на Земле, преступники объединялись в группы, работавшие против закона. Настоящее время не исключение и существует целый ряд террористических организаций, пиратских групп, изгоев и так далее. Они работают в различных системах, или даже между ними. Их мотивы, убеждения, история и власть различны, но все они разделяют одну черту. Они являются врагами нормальных людей.
