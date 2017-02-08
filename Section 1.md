@@ -15,10 +15,10 @@ All the business, corporate or otherwise, revolves around the near-universally a
 
 Out in the frontier, employers, be they a captain of a Free Trade vessel, a Trans-Stellar executive, or just someone with thalers to spare and in need of an extra hand, are forced to take just about whoever is willing and apparently able: Basically You. With Sol several months away, running a full background check on a candidate is not viable, which means many questionable people get placed in even the most high-security positions and loyalty is 'by your word', which means, in Nyx, corporate backstabbing and criminal activity is quite high. This and a lack of available employees in general means employees who do prove themselves often find themselves promoted quickly, and put into positions that they are even the slightest bit capable in.
 
-##The Basic Need-to-Know
+##Базовые знания
 ___
 
-###The Races
+###Расы
 
 [**Humanity**](http://lore.solaris13.net/Species/Humanity)
 
@@ -71,21 +71,20 @@ When grown into their small 'nymph' state, they are known to eat large amounts o
 
 ![Vox](https://wiki.baystation12.net/images/c/cf/Background-vox.png)
 
-A bird-like alien species, these scavengers commonly raid stations and ships for supplies and hardware. Often considered barely organized rabble, they are usually only a threat to ships or stations out alone without any backup, or those with lazy or incompetent security personnel. Cowardly, they tend to only attack when numbers are in their favour, and if not will either run or attempt to bargain worthless trash to gather what they want.
+Птицеподобные пришельцы. Промышляют пиратством. Всегда ужастно организованы и всегда нападают только на одиночные станции и корабли без поддержки, с некомпетентным и ленивым персоналом. Трусливы, бегут при первом же серьезном отпоре и торгуются чтобы получить желаемое. 
 
 
-
-**Synthetics** (picture will be here along with info)
+**Синтетики** (picture will be here along with info)
 
 ![Borg](https://wiki.baystation12.net/images/f/f1/Generic_borg.png)
 
-Synthetics are spread throughout known space and serve a myriad variety of roles that range from a tiny drone scrubbing a floor to a nearly omnipotent AI in command of an entire battle cruiser. Most known sentient races use synthetics in some way or fashion, very often as prosthetic bodies when their own bodies fail. There are three basic kinds of synthetic found in the universe today:
+Синтетики распростаранены в космосе. Их множество видов, они выполняют множество ролей. От малого дрона, что чистит пол, до ИИ, коммандующего боевым крейсером в сражении. У большинства рас появилась даже мода на синтетиков, вплоть до замены своих тел на их роботизированные аналоги. На данный момент различают три типа синтетиков:
 
-**Android:** An android is a robot that runs off of a positronic brain and is usually introspective, calm, and thoughtful. Positronic brains are currently in a turmoil of whether or not they are considered property or free-willed beings that should not be lawbound.
+**Андроиды:** Андроид - робот с позитронным мозгом. Как правило, спокойны и вдумчивы. Позитронный мозг сейчас способен осозновать себя, но все еще могут быть собственностью, изредка - свободными существами.    
 
-**Cyborg:** A cyborg is a robot that uses an organic brain to function via an MMI. Cyborgs come in many shapes and sizes and most of the sentient beings that are cyborgs are free-willed. Some companies have used canine brains and brains of other animals to ensure a cheap workforce that doesn't rely on cutting-edge technology.
+**Киборги:** Киборг - робот, что использует органический мозг для функционирования через ММИ. Бывают множества видов и размеров, обладают свободной волей. Некоторые компании используют мозги различных животных, в основном собак, для получения дешевой рабочей силы, не основанной на передовых технологиях.
 
-**Robot:** A robot is the term to use for any robot that uses more basic forms of intelligence. These are thought of as property in the vast majority of instances and are usually the robots that do the menial tasks that higher functioning beings choose not to do.
+**Роботы:** Робот - термин, обозначающий самой примитивный синтетический разум.  Они всегда в собственности и делают наболее черную работу.
 
 
 ___
