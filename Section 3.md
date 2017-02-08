@@ -1,24 +1,23 @@
-#So You Want to Learn About the Corporate World?
+#Что вам нужно знать о корпорациях?
 
 Everything you'll encounter out in the Nyx System will probably have a label on it, from either NanoTrasen, Githari Exports, Hesphaistos Industries, one of the other Trans-Stellar Corporations, or even the Free Trade Union; marketing is everywhere. That is why you should know your ways around their inner workings, and what they're about. 
 
 ____
 
-##The Big Seven
+##Большая семерка
 
-There are Seven Trans-Stellar Corporations that really shape what happens in the Outer Rims of space, and control markets of goods throughout the stars. These are the wealthiest, most powerful, greedy, and controlling TSCs currently in existance. 
-
+Семь корпораций, относящихся к Trans-Stellar Corporations которые действительно на что-то влияют в космосе м контролируют межзвездный рынок.  Наиболее богатые, влиятельные, жадные.
 - [**NanoTrasen**](http://lore.solaris13.net/Corporations/NanoTrasen)
 
-A high-tech research company with a majority holding on phoron claims in the Nyx system and throughout the galaxy.
+Компания, специализирующаяся на высоких технологиях и контролирующая всю добычу и исследование форона в системе Nyx. 
 
 - [**Ward-Takahashi GMB**](http://lore.solaris13.net/Corporations/Ward-Takahashi-GMB)
 
-A manufacturing company that produces everything from consumer electronics, like PDAs and laptop computers, to home appliances and other miscellaneous items.
+Компания, сделавшая упор на производство техники. От стиральных машин до карманных компьютеров.
 
 - [**Githari Exports**](http://lore.solaris13.net/Corporations/Githari-Exports)
 
-A large producer of luxury and alcoholic goods based out of their headquarters on Mars.
+Крупнейший производитель алкоголя и поставщик роскошных вещей с Марса. 
 
 - [**Grayson Manufactories Ltd.**](http://lore.solaris13.net/Corporations/Grayson-Manufactories-Ltd.)
 
